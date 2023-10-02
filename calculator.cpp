@@ -1,3 +1,4 @@
+// This calculator apps takes first two number as input with an operator then if you proceed further with (y/n) : it performs result like an basic shop Calculator with a yes/no command (THANKYOU)!.
 #include<iostream>
 using namespace std;
 
